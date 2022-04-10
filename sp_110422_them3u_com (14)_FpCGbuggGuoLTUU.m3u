@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,NIeb Sports Premium 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/1
+#EXTINF:-1,NIeb Sports Premium 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/2
+#EXTINF:-1,NIeb Sports Premium 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/3
+#EXTINF:-1,NIeb Sports 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/4
+#EXTINF:-1,NIeb Sports 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/5
+#EXTINF:-1,NIeb Sports 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/6
+#EXTINF:-1,NIeb Sports 4 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/7
+#EXTINF:-1,NIeb Sports 5 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/8
+#EXTINF:-1,NIeb Sports Pre 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/9
+#EXTINF:-1,NIeb Sports Pre 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/10
+#EXTINF:-1,NIeb Sports Pre 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/11
+#EXTINF:-1,NIeb Sports 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/12
+#EXTINF:-1,NIeb Sports 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/13
+#EXTINF:-1,NIeb Sports 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/14
+#EXTINF:-1,NIeb Sports 4 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/15
+#EXTINF:-1,NIeb Sports 5 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/16
+#EXTINF:-1,ontime sd1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/20
+#EXTINF:-1,ontime 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/21
